@@ -10,3 +10,8 @@ git+https://github.com/Joelkb/cinemagoer
 datetime
 pytz
 aiohttp
+Flask==1.0.4
+gunicorn==21.2.0
+aiohttp==3.8.1
+Werkzeug==0.16.1
+jinja2==2.10
